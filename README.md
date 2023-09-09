@@ -3,9 +3,7 @@
 <h3 align="center">I am a full stack software developer.</h3>
 
 - 🌱 I’m currently learning **C, C#, ASP.NETCore, ASP.NET MVC, Type Script, Java Script, Python Django, Jquerry, SQL Server, Git...**
-
-- 📫 How to reach me **omersarlavuk@gmail.com**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/%C3%B6mer-%C5%9Farlavuk-34004525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer şarlavuk" height="30" width="40" /></a>
