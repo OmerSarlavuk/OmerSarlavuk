@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ömer Şarlavuk</h1>
 <h3 align="center">I am full stack web and mobil iOS developer.</h3>
 
-- 🌱 I’m currently using **C, C#, Python, Swift, ASP.NETCore, ASP.NET MVC, Jquerry, SQL Server, Git, XCode, UIKit, SnapKit...**
+- 🌱 I’m currently using **C, C#, Python, OpenCV, Swift, ASP.NETCore, ASP.NET MVC, Jquerry, SQL Server, Git, XCode, UIKit, SnapKit...**
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
