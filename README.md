@@ -1,4 +1,3 @@
-[![MasterHead](https://www.keycdn.com/img/support/full-stack-development-lg@2x.webp)
 <h1 align="center">Hi 👋, I'm Ömer Şarlavuk</h1>
 <h3 align="center">I am full stack web and mobil iOS developer.</h3>
 
