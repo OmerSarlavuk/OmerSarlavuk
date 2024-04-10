@@ -45,12 +45,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://swift.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Swift_logo.svg/512px-Swift_logo.svg.png" alt="swift" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/SnapKit/SnapKit" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/SnapKit/SnapKit/master/Assets/snapkit-logo.png" alt="snapkit" width="40" height="40"/>
-  </a>
   <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer">
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="uikit" width="40" height="40"/>
   </a>
@@ -58,4 +52,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
 
