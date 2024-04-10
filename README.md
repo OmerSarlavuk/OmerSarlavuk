@@ -48,6 +48,9 @@
   <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer">
     <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="uikit" width="40" height="40"/>
   </a>
+   <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" alt="uikit" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
