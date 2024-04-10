@@ -1,8 +1,8 @@
 [![MasterHead](https://www.keycdn.com/img/support/full-stack-development-lg@2x.webp)
 <h1 align="center">Hi 👋, I'm Ömer Şarlavuk</h1>
-<h3 align="center">I am a full stack software developer.</h3>
+<h3 align="center">I am full stack web and mobil iOS developer.</h3>
 
-- 🌱 I’m currently learning **C, C#, ASP.NETCore, ASP.NET MVC, Type Script, Java Script, Python Django, Jquerry, SQL Server, Git...**
+- 🌱 I’m currently using **C, C#, Python, Swift, ASP.NETCore, ASP.NET MVC, Jquerry, SQL Server, Git, XCode, UIKit, SnapKit...**
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
