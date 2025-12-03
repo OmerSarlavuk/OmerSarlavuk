@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ömer Şarlavuk</h1>
-<h3 align="center">I am full stack web and mobil iOS developer.</h3>
+<h3 align="center">I am full stack iOS developer.</h3>
 
-- 🌱 I’m currently using **C, C#, Python, OpenCV, Swift, ASP.NETCore, ASP.NET MVC, Jquerry, SQL Server, Git, XCode, UIKit, SnapKit...**
+- 🌱 I’m currently using **C, C#, Python, OpenCV, Swift, ASP.NETCore, ASP.NET MVC, SQL Server, Git, XCode, UIKit, SnapKit...**
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%C3%B6mer-%C5%9Farlavuk-34004525a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer şarlavuk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omersarlavuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer şarlavuk" height="30" width="40" /></a>
 </p>
 
 
